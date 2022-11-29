@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Syne Mono', monospace;
+}
+
+#container {
+    margin: 12px auto;
+    width: 75%
+}
+
+header {
+    padding: 5% 40%;
+    text-align: center;
+    background: url('imgs/backround.jpg');
+}
+
+header p {
+    color: white;
+    font-size: 30px;
+    padding: 5%;
+    margin: 5% 0;
+    background: rgba(0, 0, 0, 0.8);
+}
